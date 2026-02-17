@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**Raviraj-Kutwal/Raviraj-Kutwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I’m **Raviraj Kutwal**  
+**Computer Engineering Student | Data Analyst | Full-Stack Developer | Machine Learning Enthusiast**
 
-Here are some ideas to get you started:
+🎯 I build data-driven solutions and intelligent applications that solve real-world problems. Passionate about open-source, continual learning, and making an impact with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 📍 Based in **Pune, India**  
+- 🧠 Currently enhancing skills in **Machine Learning, Data Analytics, Backend Development**  
+- 💡 Motivated by challenges and creative problem solving  
+- 🤝 Open to collaborations and meaningful contributions
+
+---
+
+## 🔭 What I’m Working On
+Here are some highlighted projects from my GitHub 👇  
+*(Find more in my repositories and feel free to ⭐ those you like!)*
+
+### 💼 Featured Projects
+- 🔍 **Employee Attrition Prediction** – A machine learning model to forecast employee turnover. :contentReference[oaicite:1]{index=1}  
+- 🛠️ **Inventory System (FastAPI + React)** – Full-stack CRUD application with modern stack. :contentReference[oaicite:2]{index=2}  
+- 🏠 **Pune Real Estate Data Analysis** – Data analysis on RERA-based property data. :contentReference[oaicite:3]{index=3}  
+- 🚜 **Wheel Share** – Shared-economy platform connecting equipment users & providers . :contentReference[oaicite:4]{index=4}  
+- 🧠 **Sales Dashboards & Power BI** – Interactive dashboards using Power BI and DAX. :contentReference[oaicite:5]{index=5}  
+
+> 💡 I love tackling projects that blend analytics, visualization, and scalable design.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🧠 Programming & Data
+- **Python, SQL, C++, JavaScript**  
+- **Machine Learning / ML Pipelines**  
+- **Pandas, NumPy, Matplotlib**
+
+### 💻 Web & App Development
+- **FastAPI, React, Streamlit**  
+- **REST APIs | Frontend & Backend Integration**
+
+### 📊 Data & Cloud
+- **Power BI, Data Visualization, Statistical Analysis**  
+- **Cloud Concepts & AI Integration**
+
+### 🌱 Other
+- Version control with **Git & GitHub**  
+- Agile & collaborative open-source workflows
+
+---
+
+## 📫 Let’s Connect
+- 🔗 LinkedIn: https://linkedin.com/in/raviraj-kutwal :contentReference[oaicite:6]{index=6}  
+
+---
+
+## ⭐ Fun Fact
+I enjoy turning data into decisions, and ideas into deployable applications — one commit at a time 🚀
+
+---
+
+> “Continuous improvement over instant perfection.” ✨
+
+
