@@ -1,5 +1,18 @@
 
-# 👋 Hi there, I’m **Raviraj Kutwal**  
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7d/2a/8b/7d2a8b6b3e4fcb9c6bfa3f0c91a1c7d5.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋 I'm Raviraj Kutwal</h1>
+<h3 align="center">🚀 Data Analyst | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
+
+<!-- ===================== VIEW COUNTER ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raviraj-Kutwal&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views"/>
+</p>
+
+---
 **Computer Engineering Student | Data Analyst | Full-Stack Developer | Machine Learning Enthusiast**
 
 🎯 I build data-driven solutions and intelligent applications that solve real-world problems. Passionate about open-source, continual learning, and making an impact with code.
@@ -62,17 +75,4 @@ I enjoy turning data into decisions, and ideas into deployable applications — 
 
 > “Continuous improvement over instant perfection.” ✨
 
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7d/2a/8b/7d2a8b6b3e4fcb9c6bfa3f0c91a1c7d5.gif" width="100%" />
-</p>
 
-<h1 align="center">Hi 👋 I'm Raviraj Kutwal</h1>
-<h3 align="center">🚀 Data Analyst | 💻 Full Stack Developer | 🤖 ML Enthusiast</h3>
-
-<!-- ===================== VIEW COUNTER ===================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raviraj-Kutwal&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views"/>
-</p>
-
----
