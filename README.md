@@ -32,11 +32,11 @@ Here are some highlighted projects from my GitHub 👇
 *(Find more in my repositories and feel free to ⭐ those you like!)*
 
 ### 💼 Featured Projects
-- 🔍 **Employee Attrition Prediction** – A machine learning model to forecast employee turnover. :contentReference[oaicite:1]{index=1}  
-- 🛠️ **Inventory System (FastAPI + React)** – Full-stack CRUD application with modern stack. :contentReference[oaicite:2]{index=2}  
-- 🏠 **Pune Real Estate Data Analysis** – Data analysis on RERA-based property data. :contentReference[oaicite:3]{index=3}  
-- 🚜 **Wheel Share** – Shared-economy platform connecting equipment users & providers . :contentReference[oaicite:4]{index=4}  
-- 🧠 **Sales Dashboards & Power BI** – Interactive dashboards using Power BI and DAX. :contentReference[oaicite:5]{index=5}  
+- 🔍 **Employee Attrition Prediction** – A machine learning model to forecast employee turnover. 
+- 🛠️ **Inventory System (FastAPI + React)** – Full-stack CRUD application with modern stack.  
+- 🏠 **Pune Real Estate Data Analysis** – Data analysis on RERA-based property data.  
+- 🚜 **Wheel Share** – Shared-economy platform connecting equipment users & providers .   
+- 🧠 **Sales Dashboards & Power BI** – Interactive dashboards using Power BI and DAX. 
 
 > 💡 I love tackling projects that blend analytics, visualization, and scalable design.
 
@@ -64,8 +64,7 @@ Here are some highlighted projects from my GitHub 👇
 ---
 
 ## 📫 Let’s Connect
-- 🔗 LinkedIn: https://linkedin.com/in/raviraj-kutwal :contentReference[oaicite:6]{index=6}  
-
+- 🔗 LinkedIn: https://linkedin.com/in/raviraj-kutwal 
 ---
 
 ## ⭐ Fun Fact
